@@ -1,7 +1,7 @@
 body {
   font-family: Verdana, sans-serif;
-  background-color: black;
-  color: white;
+  background-color: Black;
+  color: White;
   text-align: center;
 }
 
@@ -17,11 +17,11 @@ h2 {
 
 p {
   font-size: 21px;
-  color: gray;
+  color: Gray;
 }
 
 .download {
-  color: aquamarine;
+  color: Aquamarine;
   font-size: 16px;
 }
 
